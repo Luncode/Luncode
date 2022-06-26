@@ -3,6 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luncode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- [Blog](https://www.luncode.com/)
 这个人很懒没什么要说的🤔
 <!--
 **Luncode/Luncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
